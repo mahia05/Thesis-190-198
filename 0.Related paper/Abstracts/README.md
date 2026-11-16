@@ -4,6 +4,7 @@
 **("fruit freshness classification" OR "vegetable freshness detection") AND ("computer vision" OR "image processing" OR "deep learning")**
 
 ## Title: An innovative approach to detecting the freshness of fruits and vegetables through the integration of convolutional neural networks and bidirectional long short-term memory network
+[paper Link](https://www.sciencedirect.com/science/article/pii/S2665927124000492?fr=RR-2&ref=pdf_download&rr=a5b813a98cf9ded3)
 
 **Abstract:**
 
