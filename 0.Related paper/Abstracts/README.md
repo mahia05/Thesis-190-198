@@ -12,6 +12,7 @@ Fruit and vegetable freshness testing can improve the efficiency of agricultural
 
 
 ## Title: Vegetable and fruit freshness detection based on deep features and principal component analysis
+### [Paper Link](https://www.sciencedirect.com/science/article/pii/S2665927123002241?ref=pdf_download&fr=RR-2&rr=a5b81b10cc46ded3)
 
 **Abstract:**
 
@@ -19,6 +20,7 @@ Vegetable and fruit freshness detecting can ensure that consumers get vegetables
 
 
 ## Title: Improved Classification Approach for Fruits and Vegetables Freshness Based on Deep Learning.
+### [Paper Link](https://www.mdpi.com/1424-8220/22/21/8192)
 
 **Abstract:**
 
@@ -26,6 +28,7 @@ Classification of fruit and vegetable freshness plays an essential role in the f
 Keywords: fruit classification; fruit and vegetable freshness; YOLOv4; computer vision; object detection; deep learning; convolutional neural network
 
 ## Title: Multi-Task NoisyViT for Enhanced Fruit and Vegetable Freshness Detection and Type Classification
+### [Paper Link](https://www.mdpi.com/1424-8220/25/19/5955)
 
 **Abstract:**
 
@@ -33,12 +36,14 @@ Freshness is a critical indicator of fruit and vegetable quality, directly affec
 Keywords: fruit freshness detection; fruit and vegetable freshness detection; vision transformer; multi-task learning; computer vision; sensor-based classification; personal healthcare.
 
 ## Title: A hybrid CNN-LSTM model for accurate fruit freshness classification using deep learning
+### [Paper Link](https://link.springer.com/article/10.1007/s44163-025-00750-7)
 
 **Abstract:**
 
 This paper presents an innovative approach for determining fruit freshness (fresh or rotten) using advanced deep learning techniques. By employing pre-trained Convolutional Neural Networks (CNNs)–such as InceptionV3, VGG16, ResNet50, DenseNet121, and EfficientNetB0–alongside data augmentation and a hybrid deep learning model that integrates CNNs with Long Short-Term Memory (LSTM) networks to capture pseudo-temporal relationships (i.e., simulated ripening progressions generated from augmented static images), we aim to enhance the accuracy and efficiency of fruit freshness classification. The suggested hybrid framework derives spatial features through CNNs while capturing pseudo-temporal relationships (i.e., simulated progressions of ripening) with LSTM layers. To increase resilience, a variety of augmentation methods, such as rotation, flipping, brightness modifications, and noise introduction, were applied. We performed experiments on the Fruits fresh and rotten dataset utilizing a stratified 70/10/20 train-validation-test distribution. The evaluation of performance relied on metrics including accuracy, precision, recall, F1-score, and ROC-AUC. Among various models evaluated, the hybrid CNN-LSTM secured the top classification accuracy of 98.9%, precision 97.5%, recall 98.1%, F1-score 97.8% surpassing the performance of isolated pre-trained models. An ablation study further showcased the unique contributions of transfer learning, LSTM incorporation, and data augmentation. Our results underscore the efficiency and scalability of the proposed hybrid architecture for practical fruit freshness classification scenarios in smart agricultural applications.
 
 ## Title: Fruit Freshness Classification and Detection Based on the ResNet-101 Network and Non-Local Attention Mechanism
+### [Paper Link](https://www.mdpi.com/2304-8158/14/11/1987)
 
 **Abstract:**
 
@@ -46,6 +51,7 @@ Fruit freshness monitoring represents one of the key research foci in the qualit
 Keywords: ResNet-101; Non-local Attention; fruit freshness detection; deep learning; image processing; intelligent agriculture
 
 ## Title: FruitQ: a new dataset of multiple fruit images for freshness evaluation
+### [Paper Link](https://link.springer.com/article/10.1007/s11042-023-16058-6)
 
 **Abstract:**
 
@@ -99,6 +105,7 @@ Recent advances in Artificial Intelligence (AI), particularly machine learning (
 KEYWORDS:Artificial intelligence deep learning food shelf life food supply chain machine learning
 
 ## Title: Research Progress of Machine Learning in Extending and Regulating the Shelf Life of Fruits and Vegetables
+### [Paper Link](https://www.mdpi.com/2304-8158/13/19/3025)
 
 **Abstract:**
 
@@ -106,6 +113,7 @@ Fruits and vegetables are valued for their flavor and high nutritional content, 
 Keywords: machine learning; shelf life prediction; artificial intelligence; vegetables and fruits; food safety and quality; food processing
 
 ## Title: TinyML-Sensor for Shelf Life Estimation of Fresh Date Fruits
+### [Paper Link](https://www.mdpi.com/1424-8220/23/16/7081)
 
 **Abstract:**
 
@@ -114,6 +122,7 @@ Fresh dates have a limited shelf life and are susceptible to spoilage, which can
 Keywords: artificial intelligence (AI); TinyML; edge computing; modified atmosphere; prediction models; Short-Wave Near-Infrared; food supply chain; regression models.
 
 ## Title: Deep Learning Models for Shelf Life Prediction and Regulation of Various Foods: A Systematic Review
+### [Paper Link](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1750-3841.70945)
 
 **ABSTRACT:**
 
@@ -124,6 +133,7 @@ Accurate prediction of food shelf life is critical for ensuring food safety, red
 This paper explores the research and application of deep learning in the field of food shelf life, focusing on three key areas: common deep learning models, methods for evaluating preservation quality, and shelf-life prediction techniques. Additionally, the paper introduces the concept of reverse regulation of shelf life, offering innovative solutions for ensuring food safety, enhancing production efficiency, and integrating intelligent supply chain logistics.
 
 ## Title: Machine Learning-Based Shelf Life Estimator for Dates Using a Multichannel Gas Sensor: Enhancing Food Security
+### [Paper Link](https://www.mdpi.com/1424-8220/25/13/4063)
 
 **Abstract:**
 
@@ -132,6 +142,7 @@ It is a well-known fact that proper nutrition is essential for human beings to l
 Keywords: shelf life; IoT; dates; multichannel gas sensor; DHT11 sensor; gas concentrations; food security; edge impulse; machine learning (ML); relative humidity (RH); cold storage room (CSR)
 
 ## Title: Machine-Learning-Based Spectroscopic Technique for Non-Destructive Estimation of Shelf Life and Quality of Fresh Fruits Packaged under Modified Atmospheres
+### [paper Link](https://www.mdpi.com/2071-1050/15/17/12871)
 
 **Abstract:**
 
@@ -142,6 +153,7 @@ Keywords: AI; TinyML; food preservation; non-destructive evaluation; estimation;
 #### Alternative:2:
 
 ## Title: A dynamic shelf-life prediction method considering actual uncertainty: Application to fresh fruits in long-term cold storage
+### [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0260877423000699)
 
 **Abstract:**
 
@@ -150,6 +162,7 @@ Shelf-life is an important tool for visually conveying remaining food quality. H
 Keywords:Fresh fruit; Shelf-life prediction; Cold storage; Uncertainty; Kinetic reaction model; Stochastic process
 
 ## Title: Emerging Postharvest Technologies to Enhance the Shelf-Life of Fruit and Vegetables: An Overview
+### [Paper Link](https://www.mdpi.com/2304-8158/11/23/3925)
 
 **Abstract:**
 
@@ -158,6 +171,7 @@ Quality losses in fresh produce throughout the postharvest phase are often due t
 Keywords: active packaging; cold plasma; dipping; E-nose; high hydrostatic pressure; image analysis; innovative postharvest technologies; pulsed electric field; vacuum impregnation; near-infrared spectroscopy
 
 ## Title: Self-Supervised Multimodal Learning for Preharvest and Postharvest Fruit Quality Assessment Using Images and Environmental Sensors
+### [Paper Link](https://www.mdpi.com/2073-4395/16/15/1478)
 
 **Abstract:**
 
