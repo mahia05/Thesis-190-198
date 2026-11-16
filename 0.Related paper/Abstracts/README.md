@@ -63,6 +63,7 @@ Application of artificial intelligence methods in agriculture is gaining researc
 **("multimodal learning" OR "multimodal machine learning") AND ("fruit shelf-life" OR "vegetable spoilage") AND ("temperature" AND "humidity")**
 
 ## Title: Research Progress of Machine Learning in Extending and Regulating the Shelf Life of Fruits and Vegetables
+### [Paper Link](https://www.mdpi.com/2304-8158/13/19/3025)
 
 **Abstract:**
 
@@ -70,6 +71,7 @@ Fruits and vegetables are valued for their flavor and high nutritional content, 
 Keywords: machine learning; shelf life prediction; artificial intelligence; vegetables and fruits; food safety and quality; food processing
 
 ## Title: Self-Supervised Multimodal Learning for Preharvest and Postharvest Fruit Quality Assessment Using Images and Environmental Sensors
+### [Paper Link](https://www.mdpi.com/2073-4395/16/15/1478)
 
 **Abstract:**
 
@@ -80,6 +82,7 @@ Fruit preharvest–postharvest quality assessment is essential for precision har
 Keywords: self-supervised learning; fruit quality assessment; preharvest prediction; postharvest grading; smart orchard management
 
 ## Title: Multimodal Machine Learning For Fruit Ripeness Classification Using Image And Sensor-Based Data Fusion
+### [Paper Link](https://www.sciencexcel.com/article/multimodal-machine-learning-for-fruit-ripeness-classification-using-image-and-sensor-based-data-fusion)
 
 **Abstract:**
 
@@ -199,12 +202,14 @@ Keywords: self-supervised learning; fruit quality assessment; preharvest predict
 **("transfer learning" OR "lightweight models") AND ("MobileNet" OR "EfficientNet") AND ("fruit freshness" OR "food quality detection")**
 
 ## Title: FruitQ: a new dataset of multiple fruit images for freshness evaluation
+### [Paper Link](https://link.springer.com/article/10.1007/s11042-023-16058-6)
 
 **Abstract:**
 
 Application of artificial intelligence methods in agriculture is gaining research attention with focus on improving planting, harvesting, post-harvesting, etc. Fruit quality recognition is crucial for farmers during harvesting and sorting, for food retailers for quality monitoring, and for consumers for freshness evaluation, etc. However, there is a lack of multi-fruit datasets to support real-time fruit quality evaluation. To address this gap, we present a new dataset of fruit images aimed at evaluating fruit freshness, which addresses the lack of multi-fruit datasets for real-time fruit quality evaluation. The dataset contains images of 11 fruits categorized into three freshness classes, and five well-known deep learning models (ShuffleNet, SqueezeNet, EfficientNet, ResNet18, and MobileNet-V2) were adopted as baseline models for fruit quality recognition using the dataset. The study provides a benchmark dataset for the classification task, which could improve research endeavors in the field of fruit quality recognition. The dataset is systematically organized and annotated, making it suitable for testing the performance of state-of-the-art methods and new learning classifiers. The research community in the fields of computer vision, machine learning, and pattern recognition could benefit from this dataset by applying it to various research tasks such as fruit classification and fruit quality recognition. The study achieved impressive results with the best classifier being ResNet-18 with an overall best performance of 99.8% for accuracy. The study also identified limitations, such as the small size of the dataset, and proposed future work to improve deep learning techniques for fruit quality classification tasks.
 
 ## Title: Ensemble of multi-task deep convolutional neural networks using transfer learning for fruit freshness classification
+### [Paper Link](https://link.springer.com/article/10.1007/s11042-021-11282-4)
 
 **Abstract:**
 
@@ -230,6 +235,7 @@ Keywords: fruit classification; fruit and vegetable freshness; YOLOv4; computer 
 **("food spoilage detection" OR "fruit spoilage")AND ("machine learning" OR "deep learning")AND (freshness OR quality OR prediction)**
 
 ## Title: Robust deep learning method for fruit decay detection and plant identification: enhancing food security and quality control
+### [Paper Link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1366395/full)
 
 **Abstract:**
 
