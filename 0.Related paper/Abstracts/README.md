@@ -138,7 +138,85 @@ The safety and quality of fresh fruits deserve the greatest attention, and are a
 
 Keywords: AI; TinyML; food preservation; non-destructive evaluation; estimation; prediction; neural networks; multispectral sensors; near-infrared
 
+#### Alternative:2:
+
+## Title: A dynamic shelf-life prediction method considering actual uncertainty: Application to fresh fruits in long-term cold storage
+
+**Abstract:**
+
+Shelf-life is an important tool for visually conveying remaining food quality. However, the traditional printed shelf-life is a fixed value based on a stable environment, whereas food supplies undergo long-term dynamic conditions. Moreover, the accumulating effects of real-world uncertainty will lead to stochastic changes in remaining shelf-life in a probabilistic manner. Therefore, we proposed a novel dynamic shelf-life prediction method integrating the kinetic reaction and stochastic process. First, to predict practical changes in food quality indices (FQIs), we established the stochastic kinetic model, which combines basic deterministic modeling with zero-order reaction and the Arrhenius equation, and stochastic factor modeling with the Wiener process. Second, we conducted real-time probability analysis of remaining shelf-life to quantify the potential degeneration of food quality based on the established model. By using datasets monitoring firmness and Vitamin C of Kiwifruit in long-term cold storage to verify the performance of our proposed integrated model, we showed that our method was more accurate in modeling stochastic changes in FQIs than the traditional reaction model, resulting in mean absolute error, mean absolute percentage error, and root mean squared error (RMSE) less than 0.2136, 0.0162, and 0.7402, respectively. Furthermore, the shelf-life probability analysis was efficient, with relative RMSE 5.26% and computing time 0.047 s. This valuable food quality information can be provided to managers or customers to reduce food loss and waste.
+
+Keywords:Fresh fruit; Shelf-life prediction; Cold storage; Uncertainty; Kinetic reaction model; Stochastic process
+
+## Title: Emerging Postharvest Technologies to Enhance the Shelf-Life of Fruit and Vegetables: An Overview
+
+**Abstract:**
+
+Quality losses in fresh produce throughout the postharvest phase are often due to the inappropriate use of preservation technologies. In the last few decades, besides the traditional approaches, advanced postharvest physical and chemical treatments (active packaging, dipping, vacuum impregnation, conventional heating, pulsed electric field, high hydrostatic pressure, and cold plasma) and biocontrol techniques have been implemented to preserve the nutritional value and safety of fresh produce. The application of these methodologies after harvesting is useful when addressing quality loss due to the long duration when transporting products to distant markets. Among the emerging technologies and contactless and non-destructive techniques for quality monitoring (image analysis, electronic noses, and near-infrared spectroscopy) present numerous advantages over the traditional, destructive methods. The present review paper has grouped original studies within the topic of advanced postharvest technologies, to preserve quality and reduce losses and waste in fresh produce. Moreover, the effectiveness and advantages of some contactless and non-destructive methodologies for monitoring the quality of fruit and vegetables will also be discussed and compared to the traditional methods.
+
+Keywords: active packaging; cold plasma; dipping; E-nose; high hydrostatic pressure; image analysis; innovative postharvest technologies; pulsed electric field; vacuum impregnation; near-infrared spectroscopy
+
+## Title: Self-Supervised Multimodal Learning for Preharvest and Postharvest Fruit Quality Assessment Using Images and Environmental Sensors
+
+**Abstract:**
+
+Fruit preharvest–postharvest quality assessment is essential for precision harvesting, intelligent grading, storage management, and supply-chain loss reduction. However, conventional approaches mainly rely on single-point postharvest inspection and cannot adequately capture the long-term effects of preharvest fruit phenotypes and environmental dynamics on quality formation. To address limited prediction accuracy under few-label conditions, insufficient multimodal fusion, and weak cross-orchard generalization, this study proposes FruitSSL-QNet, a self-supervised multimodal learning framework for jointly modeling preharvest fruit images, environmental sensor time series, and postharvest quality indicators. The framework employs visual masked reconstruction to learn fine-grained phenotype features, including color, texture, lenticel distribution, disease spots, and maturity patterns. Environmental temporal masked modeling is used to capture the cumulative effects of temperature, humidity, light intensity, soil moisture, and rainfall. Bidirectional cross-attention, gated fusion, and contrastive alignment are further integrated to learn complementary and semantically consistent image–environment representations. Experimental results demonstrate that FruitSSL-QNet outperforms SVM, Random Forest, XGBoost, LSTM, GRU, TCN, Transformer, and MM-Transformer across multiple quality assessment tasks. The proposed model achieves a maturity recognition accuracy of 
+89.6%
+, exceeding MM-Transformer by 
+4.4
+ percentage points. Compared with the corresponding baseline results, the prediction errors for sugar content, firmness, and shelf life are reduced by 
+21.1%
+, 
+22.2%
+, and 
+22.5%
+, respectively. The decay-risk AUC reaches 
+0.921
+, and the cross-site F1-score reaches 
+0.867
+, indicating strong risk discrimination and stable generalization across orchard environments. Ablation experiments further confirm the contributions of visual self-supervision, environmental temporal self-supervision, and cross-modal alignment.
+
+Keywords: self-supervised learning; fruit quality assessment; preharvest prediction; postharvest grading; smart orchard management
+
+# Subsection4.Transfer Learning and Lightweight Models for Resource-Constrained Environments
+##### Focus: Studies utilizing lightweight convolutional neural networks (such as MobileNet or EfficientNet) and transfer learning, which are ideal for deployment on standard smartphones or low-power hardware without needing heavy server-grade GPUs.
+### Boolean Query String:
+**("transfer learning" OR "lightweight models") AND ("MobileNet" OR "EfficientNet") AND ("fruit freshness" OR "food quality detection")**
+
+## Title: FruitQ: a new dataset of multiple fruit images for freshness evaluation
+
+**Abstract:**
+
+Application of artificial intelligence methods in agriculture is gaining research attention with focus on improving planting, harvesting, post-harvesting, etc. Fruit quality recognition is crucial for farmers during harvesting and sorting, for food retailers for quality monitoring, and for consumers for freshness evaluation, etc. However, there is a lack of multi-fruit datasets to support real-time fruit quality evaluation. To address this gap, we present a new dataset of fruit images aimed at evaluating fruit freshness, which addresses the lack of multi-fruit datasets for real-time fruit quality evaluation. The dataset contains images of 11 fruits categorized into three freshness classes, and five well-known deep learning models (ShuffleNet, SqueezeNet, EfficientNet, ResNet18, and MobileNet-V2) were adopted as baseline models for fruit quality recognition using the dataset. The study provides a benchmark dataset for the classification task, which could improve research endeavors in the field of fruit quality recognition. The dataset is systematically organized and annotated, making it suitable for testing the performance of state-of-the-art methods and new learning classifiers. The research community in the fields of computer vision, machine learning, and pattern recognition could benefit from this dataset by applying it to various research tasks such as fruit classification and fruit quality recognition. The study achieved impressive results with the best classifier being ResNet-18 with an overall best performance of 99.8% for accuracy. The study also identified limitations, such as the small size of the dataset, and proposed future work to improve deep learning techniques for fruit quality classification tasks.
+
+## Title: Ensemble of multi-task deep convolutional neural networks using transfer learning for fruit freshness classification
+
+**Abstract:**
+
+Automatic classification of fruit freshness plays an important role in the agriculture industry. In this work, we propose an ensemble model that combines the bottleneck features of two multi-task deep convolutional neural networks with different architectures (ResNet-50 and ResNet-101). In our proposed multi-tasking framework, there are two classification branches: a binary classifier to distinguish between fresh and rotten fruits, and a multi-class label classifier to identify the kind of fruit. Since the features (e.g., color, texture, and shape) of rotten fruits are different from each other depending on the kind of fruit, the input of the first branch is combined with the kind of fruit information from the second branch to classify the fruit freshness more accurately. Transfer learning technique has been applied during the model training since transfer learning has been shown to be effective transfer learning has been shown to be effective in many applications in which training data for the target problem are limited. To evaluate our proposed model, we use simple images from the existing dataset and real-world images crawled from the web, both representing fresh and rotten fruits for different fruit categories as our dataset. Our proposed model achieved average accuracies of 98.50% and 97.43% for freshness classification and fruit classification, respectively, demonstrating that our transfer learning-based ensemble model outperforms other transfer learning-based models.
 
 
+# Subsection5. Deep Learning for Fruit Freshness Classification
+##### Keywords: fruit freshness, deep learning, freshness classification, fruit quality, image classification
+### Boolean Query:
+**("fruit freshness" OR "fruit quality")AND ("deep learning" OR "CNN")AND (classification OR detection)**
 
+## Title: Improved Classification Approach for Fruits and Vegetables Freshness Based on Deep Learning
+
+**Abstract:**
+
+Classification of fruit and vegetable freshness plays an essential role in the food industry. Freshness is a fundamental measure of fruit and vegetable quality that directly affects the physical health and purchasing motivation of consumers. In addition, it is a significant determinant of market price; thus, it is imperative to study the freshness of fruits and vegetables. Owing to similarities in color, texture, and external environmental changes, such as shadows, lighting, and complex backgrounds, the automatic recognition and classification of fruits and vegetables using machine vision is challenging. This study presents a deep-learning system for multiclass fruit and vegetable categorization based on an improved YOLOv4 model that first recognizes the object type in an image before classifying it into one of two categories: fresh or rotten. The proposed system involves the development of an optimized YOLOv4 model, creating an image dataset of fruits and vegetables, data argumentation, and performance evaluation. Furthermore, the backbone of the proposed model was enhanced using the Mish activation function for more precise and rapid detection. Compared with the previous YOLO series, a complete experimental evaluation of the proposed method can obtain a higher average precision than the original YOLOv4 and YOLOv3 with 50.4%, 49.3%, and 41.7%, respectively. The proposed system has outstanding prospects for the construction of an autonomous and real-time fruit and vegetable classification system for the food industry and marketplaces and can also help visually impaired people to choose fresh food and avoid food poisoning.
+
+Keywords: fruit classification; fruit and vegetable freshness; YOLOv4; computer vision; object detection; deep learning; convolutional neural network
+
+# Subsection6. Food Spoilage Detection Using Machine Learning
+##### Keywords: food spoilage, spoilage detection, freshness classification, machine learning, fruit deterioration
+### Boolean Query:
+**("food spoilage detection" OR "fruit spoilage")AND ("machine learning" OR "deep learning")AND (freshness OR quality OR prediction)**
+
+## Title: Robust deep learning method for fruit decay detection and plant identification: enhancing food security and quality control
+
+**Abstract:**
+
+This paper presents a robust deep learning method for fruit decay detection and plant identification. By addressing the limitations of previous studies that primarily focused on model accuracy, our approach aims to provide a more comprehensive solution that considers the challenges of robustness and limited data scenarios. The proposed method achieves exceptional accuracy of 99.93%, surpassing established models. In addition to its exceptional accuracy, the proposed method highlights the significance of robustness and adaptability in limited data scenarios. The proposed model exhibits strong performance even under the challenging conditions, such as intense lighting variations and partial image obstructions. Extensive evaluations demonstrate its robust performance, generalization ability, and minimal misclassifications. The inclusion of Class Activation Maps enhances the model’s capability to identify distinguishing features between fresh and rotten fruits. This research has significant implications for fruit quality control, economic loss reduction, and applications in agriculture, transportation, and scientific research. The proposed method serves as a valuable resource for fruit and plant-related industries. It offers precise adaptation to specific data, customization of the network architecture, and effective training even with limited data. Overall, this research contributes to fruit quality control, economic loss reduction, and waste minimization.
 
